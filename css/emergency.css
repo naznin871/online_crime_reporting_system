@@ -1,0 +1,84 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+background-image: url("../images/banner2.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: top center;
+
+}
+
+h1{
+  text-align: center;
+  color: white;
+  padding: 10px;
+  border-bottom: 3px solid white;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.apply{
+width: :10%;
+height: 5%;
+margin: 470px;
+margin-top: 4px;
+background-color: #d7d5d5;
+}
+#apply{
+  padding: 10px;
+  margin-top: auto;
+  margin-left: 0px;
+  margin-right: 10px;
+}
+h2{
+  color: black;
+  padding: 10px;
+  background-color: #fff;
+  text-align: center;
+
+}
+#name{
+  width: 85%;
+  padding: 10px;
+  border: none;
+  outline: 0;
+
+}
+#cntry{
+  width: 90%;
+  padding: 10px;
+  border: none;
+  outline: 0px;
+
+}
+#ph{
+  padding: 8px;
+  border: none;
+  outline: 0;
+}
+#nam{
+width: 66%;
+padding: 7px;
+}
+#tec,
+ #ed{
+  width: 90%;
+  padding: 10px;
+  border: none;
+  outline: 0;
+}
+
+#sub{
+  width: 94%;
+  padding: 10px;
+  background-color:#008000;
+  font-family: serif;
+  font-size: 20px;
+  outline: 0;
+  border: none;
+}
+::placeholder{
+  font-size: 18px;
+  font-family: serif;
+}
+
